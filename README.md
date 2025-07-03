@@ -1,24 +1,21 @@
-#Simon-say-code 🎮
-<br>
+# Simon-say-code 🎮
 
-A classic memory game built using html, css, javaScript and Readme.md — this is my first frontend project on GitHub and a foundational step in my web development journey.
-<br>
+A classic memory game built using JavaScript, Node.js, Express, and EJS — this is my first frontend project on GitHub and a foundational step in my web development journey.
 
-##🧠 About the Game
-Simon Says is a memory-based game where the user has to repeat an increasingly complex sequence of button presses shown by the game. This project recreates that logic using a clean UI and basic animations.
-<br>
+## 🧠 About the Game
 
-##🚀 Features
-Interactive Simon Says gameplay logic
-Visual feedback for button presses
-Level progression system
-<br>
+**Simon Says** is a memory-based game where the user has to repeat an increasingly complex sequence of button presses shown by the game. This project recreates that logic using a clean UI and basic animations.
 
-##🛠 Tech Stack
-Frontend: HTML, CSS, JavaScript
-<br>
+## 🚀 Features
 
-##📁 Project Structure
+- Interactive Simon Says gameplay logic
+- Visual feedback for button presses
+- Level progression system
+
+## 🛠 Tech Stack
+- **Frontend:** HTML, CSS, JavaScript
+
+## 📁 Project Structure
 |-html
 |-css
 |-javaScript 
