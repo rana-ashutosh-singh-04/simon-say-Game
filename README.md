@@ -15,6 +15,21 @@ A classic memory game built using JavaScript, Node.js, Express, and EJS — this
 ## 🛠 Tech Stack
 - **Frontend:** HTML, CSS, JavaScript
 
+
+📥 Installation
+# Clone the repo
+git clone https://github.com/rana-ashutosh-singh-04/whatsapp-DBMS.git
+
+# Install dependencies
+npm install
+
+# Start your MongoDB server
+mongod
+
+# Start the app
+node index.js
+
+
 ## 📁 Project Structure
 |-html
 |-css
