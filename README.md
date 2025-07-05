@@ -17,8 +17,10 @@ A classic memory game built using JavaScript, Node.js, Express, and EJS — this
 
 
 📥 Installation
+
+
 # Clone the repo
-git clone https://github.com/rana-ashutosh-singh-04/simon-say-Game.git
+git clone  https://github.com/rana-ashutosh-singh-04/simon-say-Game.git
 
 # Install dependencies
 npm install
@@ -28,7 +30,6 @@ mongod
 
 # Start the app
 node index.js
-
 
 ## 📁 Project Structure
 |-html
